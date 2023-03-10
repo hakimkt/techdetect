@@ -1,4 +1,4 @@
 # techdetect
 detect web technologies used by websites
 
-python3 techdetect.py url.txt technologies.txt
+python3 techdetect.py urls.txt technologies.txt
