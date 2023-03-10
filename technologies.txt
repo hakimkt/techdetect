@@ -1,0 +1,700 @@
+HTML
+CSS
+JavaScript
+PHP
+Python
+Ruby
+Java
+Node.js
+React
+AngularJS
+Vue.js
+jQuery
+Bootstrap
+Sass
+LESS
+MySQL
+PostgreSQL
+MongoDB
+Firebase
+GraphQL
+Express.js
+Django
+Flask
+Ruby on Rails
+Spring Framework
+Laravel
+ASP.NET
+WordPress
+Drupal
+Joomla
+Magento
+Shopify
+WooCommerce
+PrestaShop
+BigCommerce
+Wix
+Squarespace
+Weebly
+Ghost
+Medium
+GitHub
+Bitbucket
+GitLab
+Jenkins
+Travis CI
+CircleCI
+AWS
+Azure
+Google Cloud
+Heroku
+DigitalOcean
+Linode
+Kubernetes
+Docker
+Vagrant
+Ansible
+Chef
+Puppet
+Terraform
+Grafana
+Prometheus
+Nagios
+ELK Stack
+Splunk
+Logstash
+Kibana
+RabbitMQ
+Apache Kafka
+Redis
+Memcached
+Elasticsearch
+Solr
+Apache Cassandra
+Hadoop
+Spark
+MapReduce
+Hive
+Pig
+Zeppelin
+Tableau
+Power BI
+QlikView
+Google Analytics
+Mixpanel
+Segment
+Optimizely
+Adobe Analytics
+Hotjar
+Crazy Egg
+Google Tag Manager
+CloudFlare
+Akamai
+Fastly
+Varnish
+Nginx
+Apache HTTP Server
+Microsoft IIS
+NGINX Unit
+HAProxy
+Squid Cache
+Next.js
+Gatsby
+Svelte
+Ember.js
+Backbone.js
+Knockout.js
+Redux
+MobX
+RxJS
+D3.js
+Highcharts
+Chart.js
+Three.js
+Phaser
+Unity
+Unreal Engine
+Babylon.js
+A-Frame
+React Native
+Ionic
+NativeScript
+Flutter
+Xamarin
+PhoneGap
+Apache Cordova
+Electron
+NW.js
+OpenAI
+TensorFlow
+PyTorch
+Keras
+Caffe
+Scikit-learn
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Plotly
+Bokeh
+Jupyter
+Spyder
+PyCharm
+Visual Studio Code
+Sublime Text
+Atom
+Eclipse
+NetBeans
+IntelliJ IDEA
+Android Studio
+Xcode
+Unity Editor
+Unreal Editor
+Blender
+Maya
+Adobe Photoshop
+Adobe Illustrator
+Sketch
+Figma
+InVision
+Zeplin
+Trello
+Asana
+Basecamp
+Jira
+Confluence
+Slack
+Microsoft Teams
+Zoom
+Google Meet
+Skype
+Discord
+WhatsApp
+Signal
+Telegram
+LinkedIn
+Facebook
+Twitter
+Instagram
+YouTube
+TikTok
+Reddit
+Pinterest
+Snapchat
+Medium
+Quora
+GitHub Pages
+Netlify
+Surge.sh
+Firebase Hosting
+AWS S3
+Azure Blob Storage
+Google Cloud Storage
+DigitalOcean Spaces
+Contentful
+Strapi
+Ghost
+WordPress
+Drupal
+Joomla
+Shopify
+Magento Commerce
+PrestaShop
+OpenCart
+WooCommerce
+BigCommerce
+Shopify Plus
+Square Online Store
+Salesforce Commerce Cloud
+Adobe Experience Manager
+Kentico
+Sitecore
+Episerver
+Umbraco
+Hippo CMS
+WordPress VIP
+Squarespace
+Weebly
+Wix
+Google Analytics
+Adobe Analytics
+Mixpanel
+Segment
+Amplitude
+Heap
+Piwik
+Google Optimize
+Optimizely
+VWO
+Crazy Egg
+Hotjar
+FullStory
+SessionCam
+Inspectlet
+Mouseflow
+Quantcast
+Comscore
+SimilarWeb
+SEMrush
+Ahrefs
+Moz Pro
+Majestic
+Screaming Frog
+Google Search Console
+Bing Webmaster Tools
+Yandex Webmaster
+Serpstat
+SE Ranking
+WebCEO
+Alexa
+Open Site Explorer
+Hootsuite
+Buffer
+Sprout Social
+Later
+Planoly
+Loomly
+MeetEdgar
+Sendible
+Tailwind
+Canva
+Piktochart
+Visme
+Infogram
+Lucidpress
+Adobe Creative Suite
+Sketch
+Figma
+InVision
+Zeplin
+Marvel
+Flinto
+Principle
+Proto.io
+Framer
+Origami Studio
+Adobe XD
+Axure RP
+Justinmind
+Balsamiq
+SketchUp
+AutoCAD
+Revit
+SolidWorks
+Inventor
+Fusion 360
+Pro Tools
+Logic Pro X
+Ableton Live
+FL Studio
+Cubase
+GarageBand
+Audacity
+Reaper
+Waves
+Native Instruments
+Arturia
+Korg
+Roland
+Moog
+Ableton Push
+Novation
+Akai Professional
+Steinberg
+PreSonus
+Avid
+Bitwig Studio
+Reason
+Max/MSP
+TouchDesigner
+Isadora
+Processing
+Cinder
+Unity Reflect
+Enscape
+Lumion
+Unreal Engine Twinmotion
+3ds Max
+Maya
+Blender
+ZBrush
+Substance Painter
+Substance Designer
+Adobe Premiere Pro
+Final Cut Pro X
+DaVinci Resolve
+Avid Media Composer
+Lightworks
+HitFilm Pro
+ScreenFlow
+OBS Studio
+Wirecast
+Vmix
+Livestream Studio
+XSplit
+Teradici
+Citrix
+VMware
+Parallels
+Docker
+Kubernetes
+Ansible
+Chef
+Puppet
+SaltStack
+Nagios
+Zabbix
+Grafana
+Prometheus
+ELK Stack
+Graylog
+Fluentd
+Splunk
+Apache Kafka
+RabbitMQ
+Apache ActiveMQ
+Redis
+Memcached
+Cassandra
+Elasticsearch
+MongoDB
+MySQL
+PostgreSQL
+Oracle Database
+Microsoft SQL Server
+IBM Db2
+SAP HANA
+Tableau
+Microsoft Power BI
+QlikView
+SAS Visual Analytics
+Looker
+Mode Analytics
+Google Cloud Dataflow
+Apache Beam
+Apache Flink
+Apache Spark
+TensorFlow Extended
+Amazon SageMaker
+Databricks
+Alteryx
+Snowflake
+Talend
+Matillion
+Informatica
+MuleSoft
+Dell Boomi
+Google Cloud Functions
+AWS Lambda
+Azure Functions
+Google Cloud Run
+Amazon EC2
+Microsoft Azure Virtual Machines
+Google Cloud Compute Engine
+DigitalOcean
+Linode
+Vultr
+Amazon Lightsail
+Heroku
+Google App Engine
+Microsoft Azure App Service
+OpenShift
+Kubernetes Engine
+Amazon ECS
+Docker Swarm
+Rancher
+OpenStack
+CloudStack
+Eucalyptus
+IBM Cloud Kubernetes Service
+Oracle Container Engine for Kubernetes
+Plesk
+cPanel
+DirectAdmin
+Virtualmin
+CyberPanel
+ISPmanager
+ZPanel
+Ajenti
+Webmin
+Ansible Tower
+Jenkins
+CircleCI
+Travis CI
+GitLab CI/CD
+TeamCity
+Bamboo
+CodeShip
+Drone
+GitLab
+GitHub
+Bitbucket
+GitKraken
+Tower
+SourceTree
+TortoiseGit
+Mercurial
+SVN
+Perforce
+TFS
+JIRA
+Asana
+Trello
+Basecamp
+Wrike
+Monday.com
+Smartsheet
+ClickUp
+Notion
+Airtable
+Slack
+Microsoft Teams
+Zoom
+Google Meet
+Cisco Webex
+GoToMeeting
+Skype
+WhatsApp Business
+Telegram
+Signal
+Viber
+Facebook Messenger
+LINE
+WeChat
+Zendesk
+Freshdesk
+Help Scout
+Intercom
+Kayako
+Zoho Desk
+Salesforce Service Cloud
+Microsoft Dynamics 365 Customer Service
+HubSpot Service Hub
+Jitbit Helpdesk
+HappyFox
+LiveAgent
+Olark
+Userlike
+Zopim
+Salesforce Marketing Cloud
+Oracle Eloqua
+Auth0
+Okta
+Ping Identity
+OneLogin
+ForgeRock
+Amazon Cognito
+Firebase Authentication
+AWS Lambda
+Google Cloud Functions
+Azure Functions
+IBM Cloud Functions
+Twilio
+Nexmo
+Plivo
+Stripe
+PayPal
+Square
+Authorize.net
+Braintree
+CyberSource
+Worldpay
+Adyen
+Google Analytics
+Adobe Analytics
+Mixpanel
+Amplitude
+Heap
+Kissmetrics
+Crazy Egg
+Hotjar
+Google Optimize
+Optimizely
+VWO
+AB Tasty
+UserTesting
+Qualtrics
+SurveyMonkey
+Typeform
+Google Forms
+Wufoo
+JotForm
+Formstack
+Zendesk Support
+Freshservice
+Spiceworks
+SysAid
+ServiceNow
+BMC Remedy
+Nagios
+Zabbix
+Icinga
+Datadog
+New Relic
+AppDynamics
+Pingdom
+Site24x7
+UptimeRobot
+Cloudflare
+Akamai
+Sucuri
+Imperva
+Barracuda
+F5 Networks
+Cisco ASA
+Fortinet
+Palo Alto Networks
+McAfee
+Symantec
+Sophos
+Trend Micro
+Carbon Black
+SentinelOne
+CrowdStrike
+Rapid7
+Tenable
+Qualys
+OpenVAS
+Nessus
+Burp Suite
+Metasploit
+Wireshark
+Nmap
+Snort
+Bro
+Suricata
+ELK Stack
+Graylog
+Splunk
+Logstash
+Fluentd
+Grafana
+Prometheus
+InfluxDB
+OpenTSDB
+MongoDB
+Cassandra
+Redis
+Elasticsearch
+Solr
+Apache Kafka
+RabbitMQ
+ActiveMQ
+Mosquitto
+AWS SQS
+Google Cloud Pub/Sub
+Azure Service Bus
+Docker Compose
+Terraform
+CloudFormation
+Puppet
+Chef
+SaltStack
+CFEngine
+Graylog
+Ansible Tower
+Packer
+Vagrant
+Docker Swarm
+Kubernetes
+Istio
+Marketo
+Pardot
+HubSpot Marketing Hub
+ActiveCampaign
+Mailchimp
+Campaign Monitor
+Constant Contact
+Sendinblue
+Drip
+ConvertKit
+AWeber
+GetResponse
+Klaviyo
+Autopilot
+Ontraport
+Infusionsoft
+SharpSpring
+Hootsuite
+Buffer
+Sprout Social
+Later
+CoSchedule
+MeetEdgar
+Crowdfire
+Tailwind
+Canva
+Adobe Creative Cloud
+Sketch
+Figma
+InVision
+Axure
+Balsamiq
+Moqups
+Adobe XD
+Zeplin
+Marvel
+Principle
+Proto.io
+Flinto
+Origami Studio
+UXPin
+Webflow
+WordPress
+Drupal
+Joomla
+Magento
+Shopify
+WooCommerce
+BigCommerce
+Volusion
+Squarespace
+Wix
+Weebly
+Ghost
+Hugo
+Gatsby
+Jekyll
+Next.js
+Nuxt.js
+Vue.js
+React Native
+Ionic
+Xamarin
+Flutter
+NativeScript
+PhoneGap
+Cordova
+Electron
+NW.js
+React
+Angular
+Vue.js
+Backbone.js
+Ember.js
+Polymer
+Knockout
+Handlebars
+Mustache
+Pug
+Sass
+Less
+Stylus
+PostCSS
+Grunt
+Gulp
+Webpack
+Browserify
+Rollup
+Parcel
+NPM
+Yarn
+Bower
+Jamf
+System Center Configuration Manager
+Ansible AWX
+Rundeck
+Control-M
+Jenkins X
+Tekton
+GitHub Actions
